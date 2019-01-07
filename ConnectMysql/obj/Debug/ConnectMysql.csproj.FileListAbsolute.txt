@@ -1,0 +1,9 @@
+F:\WVS1\ConnectMysql\ConnectMysql\bin\Debug\ConnectMysql.exe.config
+F:\WVS1\ConnectMysql\ConnectMysql\bin\Debug\ConnectMysql.exe
+F:\WVS1\ConnectMysql\ConnectMysql\bin\Debug\ConnectMysql.pdb
+F:\WVS1\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.csprojResolveAssemblyReference.cache
+F:\WVS1\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.Form1.resources
+F:\WVS1\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.Properties.Resources.resources
+F:\WVS1\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.csproj.GenerateResource.Cache
+F:\WVS1\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.exe
+F:\WVS1\ConnectMysql\ConnectMysql\obj\Debug\ConnectMysql.pdb
